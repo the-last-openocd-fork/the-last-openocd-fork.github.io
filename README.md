@@ -40,4 +40,7 @@ Please contribute to this project by creating a [pull request](https://github.co
  * https://git.codelinaro.org/clo/la/openocd-org/openocd/-/commits/qcom_changes/?ref_type=heads
  * https://github.com/markfeathers/openocd
  * https://github.com/DCVostok/openocd-k1921vk
+ * https://github.com/sysprogs/openocd-st
+ * https://gitee.com/luyaocf/openocd
+ * https://github.com/cjacker/wch-openocd
 
