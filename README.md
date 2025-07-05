@@ -49,4 +49,7 @@ Please contribute to this project by creating a [pull request](https://github.co
  * https://github.com/knieriem/openocd-efm32-series2
  * https://github.com/andestech/nds-openocd
  * https://github.com/intel/aji_openocd
+ * https://github.com/linux-msm/openocd
+ * https://github.com/DCVostok/openocd-k1921vk
+ * https://github.com/flipperdevices/openocd
 
