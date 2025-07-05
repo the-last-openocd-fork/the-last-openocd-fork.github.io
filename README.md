@@ -16,14 +16,15 @@ Please contribute to this project by creating a [pull request](https://github.co
  * https://github.com/sysprogs/openocd
  * https://github.com/analogdevicesinc/openocd
  * https://github.com/stacksmashing/openocd
- * https://github.com/OpenNuvoton/OpenOCD-Nuvoton
  * https://github.com/kprasadvnsi/riscv-openocd-wch
  * https://github.com/kendryte/openocd-kendryte
  * https://github.com/Lichee-Pi/LicheeTang_openocd
  * https://github.com/sony/openocd-nuttx
  * https://github.com/foss-for-synopsys-dwc-arc-processors/openocd
  * https://github.com/xu7wong/openocd_wchlink
+ * https://github.com/OpenNuvoton/OpenOCD-Nuvoton
  * https://github.com/OpenNuvoton/OpenOCD-Nuvoton-8051
+ * https://github.com/OpenNuvoton/OpenOCD-Nuvoton-CMSIS-DAP
  * https://github.com/aesc-silicon/elements-openocd
  * https://github.com/kit-kch/psoc-openocd
  * https://github.com/windowsair/openocd-elaphurelink
@@ -43,4 +44,12 @@ Please contribute to this project by creating a [pull request](https://github.co
  * https://github.com/sysprogs/openocd-st
  * https://gitee.com/luyaocf/openocd
  * https://github.com/cjacker/wch-openocd
+ * https://github.com/ArteryTek/openocd
+ * https://github.com/GigaDevice-Semiconductor/openocd
+ * https://github.com/knieriem/openocd-efm32-series2
+ * https://github.com/andestech/nds-openocd
+ * https://github.com/intel/aji_openocd
+ * https://github.com/linux-msm/openocd
+ * https://github.com/DCVostok/openocd-k1921vk
+ * https://github.com/flipperdevices/openocd
 
