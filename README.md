@@ -52,4 +52,4 @@ Please contribute to this project by creating a [pull request](https://github.co
  * https://github.com/linux-msm/openocd
  * https://github.com/DCVostok/openocd-k1921vk
  * https://github.com/flipperdevices/openocd
-
+ * https://github.com/LatticePropel/propel-sdk/tree/master/openocd_riscv
