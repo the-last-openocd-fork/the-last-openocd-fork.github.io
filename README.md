@@ -55,3 +55,4 @@ Please contribute to this project by creating a [pull request](https://github.co
  * https://github.com/LatticePropel/propel-sdk/tree/master/openocd_riscv
  * https://github.com/treideme/openocd-hacks
  * https://github.com/nmenon/openocd/tree/mspm0
+ * https://github.com/Essenceia/openocd_ultrascale_plus
