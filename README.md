@@ -57,3 +57,4 @@ Please contribute to this project by creating a [pull request](https://github.co
  * https://github.com/nmenon/openocd/tree/mspm0
  * https://github.com/Essenceia/openocd_ultrascale_plus
  * https://github.com/EasyDevKits/openocd-easydevkits
+ * https://github.com/syntacore/openocd
