@@ -58,3 +58,4 @@ Please contribute to this project by creating a [pull request](https://github.co
  * https://github.com/Essenceia/openocd_ultrascale_plus
  * https://github.com/EasyDevKits/openocd-easydevkits
  * https://github.com/syntacore/openocd
+ * https://github.com/kbeckmann/ubuntu-openocd-git-builder
